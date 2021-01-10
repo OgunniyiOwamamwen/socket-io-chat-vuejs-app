@@ -53,16 +53,17 @@ io.on('connection', (socket) => {
 })
 
 
-// const { Socket } = require('dgram');
+/*
+const { Socket } = require('dgram');
 
-// let app = require('express')();
-// let http = require('http').Server(app);
+let app = require('express')();
+let http = require('http').Server(app);
 
-// app.get('/', (req, res) => {
-//     res.send('<h1>Hello Socket.io</h1>');
-// })
+app.get('/', (req, res) => {
+    res.send('<h1>Hello Socket.io</h1>');
+})
 
-// http.listen(3000, () => {
-//     console.log('Socket connected...')
-// })
-
+http.listen(3000, () => {
+    console.log('Socket connected...')
+})
+*/
