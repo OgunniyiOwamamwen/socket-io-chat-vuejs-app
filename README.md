@@ -4,7 +4,7 @@ cdn: Vue.js
 
 cdn bootstrap
 
-yarn init
+npm init
 
 npm install --save express@4
 
