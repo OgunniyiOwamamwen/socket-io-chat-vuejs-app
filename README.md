@@ -1,5 +1,6 @@
 ## WEB CHAT
-............................Web socket.io............................
+
+Web socket.io
 
 Video: https://www.youtube.com/watch?v=Wk2QenQ31tw
 
