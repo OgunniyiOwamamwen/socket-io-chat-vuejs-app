@@ -1,4 +1,4 @@
-## WEB CHAT
+## SIMPLE WEB CHAT
 
 Web socket.io
 
