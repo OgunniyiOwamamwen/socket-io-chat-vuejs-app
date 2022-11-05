@@ -51,19 +51,3 @@ io.on('connection', (socket) => {
 
     //
 })
-
-
-/*
-const { Socket } = require('dgram');
-
-let app = require('express')();
-let http = require('http').Server(app);
-
-app.get('/', (req, res) => {
-    res.send('<h1>Hello Socket.io</h1>');
-})
-
-http.listen(3000, () => {
-    console.log('Socket connected...')
-})
-*/
